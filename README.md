@@ -61,5 +61,4 @@ In the third testcase, each of the three states should should have 3 districts e
 
 In the fourth testcase, you can check that no matter how you construct the states, the President cannot be a One. Hence, the answer is 0.
 
-
-https://www.codechef.com/problems/GERMANDE
+https://www.codechef.com/FEB17/problems/GERMANDE
